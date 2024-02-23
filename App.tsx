@@ -1,3 +1,10 @@
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
+
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Image, TouchableOpacity, Text, Animated, Dimensions, Modal, Button } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
